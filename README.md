@@ -1,2 +1,4 @@
 # buildspace-nft-game
-his is an async, weekend project for curious devs that want to learn more about crypto + gaming by hacking together their own web3 game. You'll mint your own NFTs, make them playable characters in your game, and let users earn your own crypto as they win games
+
+Fun web3-game project in buildspace.so cohort. User can connect their wallet, choose a character. Character's health points change reactively in user's wallet on user's action in the game.
+
